@@ -1,0 +1,501 @@
+{
+ "bpm": 120.0,
+ "total_s": 452.0,
+ "render_bars": 226,
+ "takes": [
+  {
+   "id": "T0_open",
+   "start_s": 2.0,
+   "beats": 12
+  },
+  {
+   "id": "T1_cut00",
+   "start_s": 10.0,
+   "beats": 12
+  },
+  {
+   "id": "T1_cut01",
+   "start_s": 18.0,
+   "beats": 12
+  },
+  {
+   "id": "T1_cut02",
+   "start_s": 26.0,
+   "beats": 12
+  },
+  {
+   "id": "T1_cut03",
+   "start_s": 34.0,
+   "beats": 12
+  },
+  {
+   "id": "T1_cut04",
+   "start_s": 42.0,
+   "beats": 12
+  },
+  {
+   "id": "T1_cut05",
+   "start_s": 50.0,
+   "beats": 12
+  },
+  {
+   "id": "T1_cut06",
+   "start_s": 58.0,
+   "beats": 12
+  },
+  {
+   "id": "T1_cut07",
+   "start_s": 66.0,
+   "beats": 12
+  },
+  {
+   "id": "T1_cut08",
+   "start_s": 74.0,
+   "beats": 12
+  },
+  {
+   "id": "T1_cut09",
+   "start_s": 82.0,
+   "beats": 12
+  },
+  {
+   "id": "T1_cut10",
+   "start_s": 90.0,
+   "beats": 12
+  },
+  {
+   "id": "T2_res0700",
+   "start_s": 98.0,
+   "beats": 12
+  },
+  {
+   "id": "T2_res0725",
+   "start_s": 106.0,
+   "beats": 12
+  },
+  {
+   "id": "T2_res0750",
+   "start_s": 114.0,
+   "beats": 12
+  },
+  {
+   "id": "T2_res0775",
+   "start_s": 122.0,
+   "beats": 12
+  },
+  {
+   "id": "T2_res0800",
+   "start_s": 130.0,
+   "beats": 12
+  },
+  {
+   "id": "T2_res0825",
+   "start_s": 138.0,
+   "beats": 12
+  },
+  {
+   "id": "T2_res0850",
+   "start_s": 146.0,
+   "beats": 12
+  },
+  {
+   "id": "T2_res0875",
+   "start_s": 154.0,
+   "beats": 12
+  },
+  {
+   "id": "T2_res0900",
+   "start_s": 162.0,
+   "beats": 12
+  },
+  {
+   "id": "T2_res0925",
+   "start_s": 170.0,
+   "beats": 12
+  },
+  {
+   "id": "T2_res0950",
+   "start_s": 178.0,
+   "beats": 12
+  },
+  {
+   "id": "T2_res0975",
+   "start_s": 186.0,
+   "beats": 12
+  },
+  {
+   "id": "T2_res1000",
+   "start_s": 194.0,
+   "beats": 12
+  },
+  {
+   "id": "T3_open",
+   "start_s": 202.0,
+   "beats": 44
+  },
+  {
+   "id": "T3_res0000",
+   "start_s": 226.0,
+   "beats": 44
+  },
+  {
+   "id": "T3_res0250",
+   "start_s": 250.0,
+   "beats": 44
+  },
+  {
+   "id": "T3_res0500",
+   "start_s": 274.0,
+   "beats": 44
+  },
+  {
+   "id": "T3_res0750",
+   "start_s": 298.0,
+   "beats": 44
+  },
+  {
+   "id": "T3_res0900",
+   "start_s": 322.0,
+   "beats": 44
+  },
+  {
+   "id": "T3_res1000",
+   "start_s": 346.0,
+   "beats": 44
+  },
+  {
+   "id": "T4_r0_lvl02",
+   "start_s": 370.0,
+   "beats": 12
+  },
+  {
+   "id": "T4_r0_lvl05",
+   "start_s": 378.0,
+   "beats": 12
+  },
+  {
+   "id": "T4_r0_lvl08",
+   "start_s": 386.0,
+   "beats": 12
+  },
+  {
+   "id": "T4_r0_lvl10",
+   "start_s": 394.0,
+   "beats": 12
+  },
+  {
+   "id": "T4_r7_lvl02",
+   "start_s": 402.0,
+   "beats": 12
+  },
+  {
+   "id": "T4_r7_lvl05",
+   "start_s": 410.0,
+   "beats": 12
+  },
+  {
+   "id": "T4_r7_lvl08",
+   "start_s": 418.0,
+   "beats": 12
+  },
+  {
+   "id": "T4_r7_lvl10",
+   "start_s": 426.0,
+   "beats": 12
+  },
+  {
+   "id": "T5_track",
+   "start_s": 434.0,
+   "beats": 32
+  }
+ ],
+ "fm1": {
+  "T0_open": {
+   "cut": 10.0,
+   "res": 0.0,
+   "kybd_knob": 0,
+   "source": "saw",
+   "mix": 0
+  },
+  "T1_cut00": {
+   "cut": 0.0,
+   "res": 10.0,
+   "kybd_knob": 0,
+   "source": "none",
+   "mix": 127
+  },
+  "T1_cut01": {
+   "cut": 1.0236220472440944,
+   "res": 10.0,
+   "kybd_knob": 0,
+   "source": "none",
+   "mix": 127
+  },
+  "T1_cut02": {
+   "cut": 1.968503937007874,
+   "res": 10.0,
+   "kybd_knob": 0,
+   "source": "none",
+   "mix": 127
+  },
+  "T1_cut03": {
+   "cut": 2.9921259842519685,
+   "res": 10.0,
+   "kybd_knob": 0,
+   "source": "none",
+   "mix": 127
+  },
+  "T1_cut04": {
+   "cut": 4.015748031496063,
+   "res": 10.0,
+   "kybd_knob": 0,
+   "source": "none",
+   "mix": 127
+  },
+  "T1_cut05": {
+   "cut": 5.039370078740157,
+   "res": 10.0,
+   "kybd_knob": 0,
+   "source": "none",
+   "mix": 127
+  },
+  "T1_cut06": {
+   "cut": 5.984251968503937,
+   "res": 10.0,
+   "kybd_knob": 0,
+   "source": "none",
+   "mix": 127
+  },
+  "T1_cut07": {
+   "cut": 7.0078740157480315,
+   "res": 10.0,
+   "kybd_knob": 0,
+   "source": "none",
+   "mix": 127
+  },
+  "T1_cut08": {
+   "cut": 8.031496062992126,
+   "res": 10.0,
+   "kybd_knob": 0,
+   "source": "none",
+   "mix": 127
+  },
+  "T1_cut09": {
+   "cut": 8.976377952755906,
+   "res": 10.0,
+   "kybd_knob": 0,
+   "source": "none",
+   "mix": 127
+  },
+  "T1_cut10": {
+   "cut": 10.0,
+   "res": 10.0,
+   "kybd_knob": 0,
+   "source": "none",
+   "mix": 127
+  },
+  "T2_res0700": {
+   "cut": 5.039370078740157,
+   "res": 6.966333932667864,
+   "kybd_knob": 0,
+   "source": "none",
+   "mix": 127
+  },
+  "T2_res0725": {
+   "cut": 5.039370078740157,
+   "res": 7.231694463388928,
+   "kybd_knob": 0,
+   "source": "none",
+   "mix": 127
+  },
+  "T2_res0750": {
+   "cut": 5.039370078740157,
+   "res": 7.502015004030008,
+   "kybd_knob": 0,
+   "source": "none",
+   "mix": 127
+  },
+  "T2_res0775": {
+   "cut": 5.039370078740157,
+   "res": 7.7772955545911095,
+   "kybd_knob": 0,
+   "source": "none",
+   "mix": 127
+  },
+  "T2_res0800": {
+   "cut": 5.039370078740157,
+   "res": 8.05753611507223,
+   "kybd_knob": 0,
+   "source": "none",
+   "mix": 127
+  },
+  "T2_res0825": {
+   "cut": 5.039370078740157,
+   "res": 8.199516399032797,
+   "kybd_knob": 0,
+   "source": "none",
+   "mix": 127
+  },
+  "T2_res0850": {
+   "cut": 5.039370078740157,
+   "res": 8.48719697439395,
+   "kybd_knob": 0,
+   "source": "none",
+   "mix": 127
+  },
+  "T2_res0875": {
+   "cut": 5.039370078740157,
+   "res": 8.77983755967512,
+   "kybd_knob": 0,
+   "source": "none",
+   "mix": 127
+  },
+  "T2_res0900": {
+   "cut": 5.039370078740157,
+   "res": 8.928017856035712,
+   "kybd_knob": 0,
+   "source": "none",
+   "mix": 127
+  },
+  "T2_res0925": {
+   "cut": 5.039370078740157,
+   "res": 9.22809845619691,
+   "kybd_knob": 0,
+   "source": "none",
+   "mix": 127
+  },
+  "T2_res0950": {
+   "cut": 5.039370078740157,
+   "res": 9.533139066278133,
+   "kybd_knob": 0,
+   "source": "none",
+   "mix": 127
+  },
+  "T2_res0975": {
+   "cut": 5.039370078740157,
+   "res": 9.68751937503875,
+   "kybd_knob": 0,
+   "source": "none",
+   "mix": 127
+  },
+  "T2_res1000": {
+   "cut": 5.039370078740157,
+   "res": 10.0,
+   "kybd_knob": 0,
+   "source": "none",
+   "mix": 127
+  },
+  "T3_open": {
+   "cut": 10.0,
+   "res": 0.0,
+   "kybd_knob": 0,
+   "source": "noise",
+   "mix": 127
+  },
+  "T3_res0000": {
+   "cut": 5.039370078740157,
+   "res": 0.0,
+   "kybd_knob": 0,
+   "source": "noise",
+   "mix": 127
+  },
+  "T3_res0250": {
+   "cut": 5.039370078740157,
+   "res": 2.539525079050158,
+   "kybd_knob": 0,
+   "source": "noise",
+   "mix": 127
+  },
+  "T3_res0500": {
+   "cut": 5.039370078740157,
+   "res": 5.022010044020088,
+   "kybd_knob": 0,
+   "source": "noise",
+   "mix": 127
+  },
+  "T3_res0750": {
+   "cut": 5.039370078740157,
+   "res": 7.502015004030008,
+   "kybd_knob": 0,
+   "source": "noise",
+   "mix": 127
+  },
+  "T3_res0900": {
+   "cut": 5.039370078740157,
+   "res": 8.928017856035712,
+   "kybd_knob": 0,
+   "source": "noise",
+   "mix": 127
+  },
+  "T3_res1000": {
+   "cut": 5.039370078740157,
+   "res": 10.0,
+   "kybd_knob": 0,
+   "source": "noise",
+   "mix": 127
+  },
+  "T4_r0_lvl02": {
+   "cut": 5.039370078740157,
+   "res": 0.0,
+   "kybd_knob": 0,
+   "source": "saw",
+   "mix": 102
+  },
+  "T4_r0_lvl05": {
+   "cut": 5.039370078740157,
+   "res": 0.0,
+   "kybd_knob": 0,
+   "source": "saw",
+   "mix": 64
+  },
+  "T4_r0_lvl08": {
+   "cut": 5.039370078740157,
+   "res": 0.0,
+   "kybd_knob": 0,
+   "source": "saw",
+   "mix": 25
+  },
+  "T4_r0_lvl10": {
+   "cut": 5.039370078740157,
+   "res": 0.0,
+   "kybd_knob": 0,
+   "source": "saw",
+   "mix": 0
+  },
+  "T4_r7_lvl02": {
+   "cut": 5.039370078740157,
+   "res": 6.966333932667864,
+   "kybd_knob": 0,
+   "source": "saw",
+   "mix": 102
+  },
+  "T4_r7_lvl05": {
+   "cut": 5.039370078740157,
+   "res": 6.966333932667864,
+   "kybd_knob": 0,
+   "source": "saw",
+   "mix": 64
+  },
+  "T4_r7_lvl08": {
+   "cut": 5.039370078740157,
+   "res": 6.966333932667864,
+   "kybd_knob": 0,
+   "source": "saw",
+   "mix": 25
+  },
+  "T4_r7_lvl10": {
+   "cut": 5.039370078740157,
+   "res": 6.966333932667864,
+   "kybd_knob": 0,
+   "source": "saw",
+   "mix": 0
+  },
+  "T5_track": {
+   "cut": 2.9921259842519685,
+   "res": 10.0,
+   "kybd_knob": 95,
+   "source": "none",
+   "mix": 127
+  }
+ }
+}

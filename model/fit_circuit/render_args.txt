@@ -1,0 +1,1 @@
+--set drive=0.199182 --set clip=0.514473 --set clip_sharp=8.79775 --set fwd=0.202 --set kmax=5.86571 --set res_curve=1.14896 --set cut_hz0=3.68185 --set cut_oct=1.24641

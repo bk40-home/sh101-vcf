@@ -1,0 +1,8 @@
+build/
+__pycache__/
+*.so
+*.wav
+*.asd
+takes/
+analysis/
+synthetic_report/
